@@ -1,4 +1,4 @@
-# edd-onyango-project
+# edd-onyango-project week 2
 #### Independent Project, April 2018
 #### By **Eddy Onyango**
 ## Description
