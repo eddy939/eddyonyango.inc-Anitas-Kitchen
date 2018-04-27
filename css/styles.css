@@ -1,0 +1,20 @@
+.row {
+  background-image: url("../images/backgrounds/landing.jpg");
+}
+
+.logo {
+  text-align: center;
+  padding-top: 60px
+}
+
+.h1{
+  color: white;
+  font-family: cursive;
+  text-align: center;
+}
+
+.h2 {
+  color: white;
+  font-family: cursive;
+  text-align: center;
+}
