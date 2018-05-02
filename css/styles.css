@@ -68,3 +68,90 @@
   .pad3{
     padding-right: 305px;
   }
+
+  .p3{
+    text-align: right;
+  }
+
+  .r1{
+    background-image: url("../images/backgrounds/foodsBg.jpg");
+    background-image: fill;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+  }
+
+
+  /* Meals Section */
+
+  .meals{
+    background-image: url("images/backgrounds/foodsBg.jpg");
+    padding: 6%;
+  }
+
+  .container.meals-list{
+    width:77vw;
+    background-color:#fff;
+  }
+
+  .meals-title {
+    background-color: #ddd;
+    font-size: 1.7rem;
+    font-weight: 700;
+    margin-bottom: 3%
+    text-align: center;
+  }
+
+  .meal-title{
+    padding: 2%;
+    border-left: 1px solid #ccc;
+  }
+
+  .meal-fast-food{
+    background-color: #fff;
+  }
+
+  .meals-images{
+    padding-left: 6%;
+    padding-bottom: 1.5%;
+    padding-right: 5%;
+  }
+
+  .meal-image-text{
+    color:#F15A29;
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 4%;
+  }
+
+  /*SUBSCRIPTION SECTION */
+  .subscription{
+    background-image: url(../images/backgrounds/subscribe.jpg);
+    padding: 3%;
+    padding-bottom: 5%;
+  }
+
+  .subscription-section{
+    width: 70%;
+    margin-left: 25%;
+  }
+
+  .subscription-title{
+    color: #bbb;
+    padding-bottom:1%;
+    font-weight: 700;
+  }
+
+  .subscription-button{
+    height: 45px;
+    width: 35%;
+    background-color: #F15A29;
+    border:none;
+    color:#fff
+  }
+
+  .input-group.input-group-lg{
+    width: 100%
+  }
