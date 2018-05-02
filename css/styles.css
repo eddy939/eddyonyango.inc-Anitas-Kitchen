@@ -1,6 +1,8 @@
 
 #row {
   background-image: url("../images/backgrounds/landing.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .logo {
@@ -155,3 +157,29 @@
   .input-group.input-group-lg{
     width: 100%
   }
+
+  /* FOOTER SECTION */
+  .footer{
+    background-color: #F15A29;
+  }
+
+  .footer-content{
+    padding-top:4%
+    color: #fff;
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  .social-icons img{
+    padding: 9px;
+  }
+
+  p.footer-title {
+    font-size: 40px;
+      }
+
+.copyright{
+  padding-top: 3%;
+  font-size: 1.3rem;
+  padding-bottom: 1%;
+}
