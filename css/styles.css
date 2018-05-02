@@ -33,6 +33,8 @@
 
 .padding {
   background-image: url("../images/foodtop/breakfast.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .pa {
@@ -77,6 +79,8 @@
 
   .r1{
     background-image: url("../images/backgrounds/foodsBg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     background-image: fill;
     padding-left: 75px;
     padding-right: 75px;
@@ -89,6 +93,8 @@
 
   .meals{
     background-image: url("images/backgrounds/foodsBg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     padding: 6%;
   }
 
@@ -130,7 +136,9 @@
 
   /*SUBSCRIPTION SECTION */
   .subscription{
-    background-image: url(../images/backgrounds/subscribe.jpg);
+    background-image: url("../images/backgrounds/subscribe.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     padding: 3%;
     padding-bottom: 5%;
   }
