@@ -89,6 +89,68 @@
   }
 
 
+/* Navigation Menu */
+
+.bar-icon {
+  padding-top: 4%;
+  padding-left: 2%;
+}
+.burger-icon{
+  font-size: 40px;
+  padding: 5%;
+  color: #555;
+  cursor: pointer;
+}
+.burger-icon:hover{
+  color: #444;
+}
+
+.breakfast:hover{
+  background-image: linear-gradient(rgba(247, 247, 247, 0.3), rgba(247, 247, 247, 0.3)), url(../img/foodtop/breakfast.jpg);
+}
+.lunch:hover{
+  background-image: linear-gradient(rgba(247, 247, 247, 0.3), rgba(247, 247, 247, 0.3)), url(../img/foodtop/lunch.jpg);
+}
+.dinner:hover{
+  background-image: linear-gradient(rgba(247, 247, 247, 0.3), rgba(247, 247, 247, 0.3)), url(../img/foodtop/dinner.jpg);
+}
+
+
+nav ul{
+  overflow: hidden;
+  list-style-type: none;
+  height: 0;
+}
+nav ul.open{
+  height: auto;
+}
+nav ul li{
+  text-decoration: none;
+  float: none;
+  text-align: left;
+  width: 100%;
+  margin: 0;
+}
+nav ul li a {
+  color: #eee;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  display: block;
+  padding: 5px;
+  padding-left: 50px;
+}
+nav ul li a:hover,
+nav ul li a:active {
+  text-decoration: none;
+  color: #555;
+}
+
+
+
+
+
+
+
   /* Meals Section */
 
   .meals{
